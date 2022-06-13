@@ -1,0 +1,198 @@
+@import url('http://fonts.cdnfonts.com/css/azo-sans');
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Azo Sans', sans-serif;
+    background-image: url('./images/back.png'); 
+    background-position: center;
+    background-repeat: no-repeat;
+     background-color: #080422;
+     height: 100%;
+        
+}
+/* 
+.main{
+    background-image: url('./images/back.png'); 
+    background-position: center;
+    background-repeat: no-repeat;
+     background-color: #080422;
+     height: 100%;
+
+} */
+.btn > a
+{
+    background: linear-gradient(90.63deg, #B55CE6 6.56%, #4E87F0 113.04%);
+    border-radius: 70px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;
+    text-align: center;
+    color: #ffff; 
+    width: 407px;
+    height: 58px;
+    text-decoration: none;
+    font-family: 'Azo Sans';
+
+}
+ .top_grad
+{
+    /* position: absolute; */
+width: 100px;
+height: 100px;
+/* left: 464px; */
+/* top: -394px; */
+display: flex;
+justify-content: center;
+margin: 0 auto;
+
+background: linear-gradient(90.63deg, #B55CE6 6.56%, #4E87F0 113.04%);
+opacity: 0.3;
+filter: blur(284px);
+
+border-radius: 10px;
+
+
+
+/* width: 100px;
+height: 100px;
+margin: 0 auto;
+display: flex;
+justify-content: center;
+background: linear-gradient(90.63deg, #B55CE6 6.56%, #4E87F0 113.04%);
+opacity: 0.3;
+filter: blur(284px);
+border-radius: 10px; */
+
+}
+.Section .coming
+{
+    font-weight:300;
+    font-size: 72px;
+    line-height: 73px;
+    text-align: center;
+    background: linear-gradient(90.63deg, #B55CE6 6.56%, #4E87F0 113.04%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+font-family: 'Azo Sans';
+
+}
+
+.Section b{
+    font-weight:700;
+    font-size: 72px;
+    text-align: center;
+    background: linear-gradient(90.63deg, #B55CE6 6.56%, #4E87F0 113.04%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+font-family: 'Azo Sans';
+
+}
+/* .Section .coming
+{
+    font-family: 'Azo Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 73px;
+background: linear-gradient(90.63deg, #B55CE6 6.56%, #4E87F0 113.04%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent; */
+
+
+.footer .write{
+    color: #fff;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    font-size: 12px;
+    text-transform: uppercase;
+
+}
+
+.logo>h4
+{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Azo Sans';
+}
+.logo>p
+{
+    font-size: 10px;
+    font-weight: 200;
+    font-family: 'Azo Sans';  
+    letter-spacing: 0.2em; 
+    line-height: 10px;
+}
+.Para >p{
+    width: 70%;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px;
+    font-size: 18px;
+    color: #A6A1C5;
+    text-align: center;
+    font-family: 'Azo Sans';
+  }
+  .StayTuned h3
+  {
+    font-family: 'Azo Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+
+  }
+
+.footer .num1
+{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    color: #fff;
+    letter-spacing: 0.1em;
+    margin-left:10px ;
+
+}
+.footer .email
+{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    color: #fff;
+    letter-spacing: 0.1em;
+    margin-left:10px ;
+
+}
+.fa-phone
+{
+    color: transparent;
+color: rgb(181,92,230);
+color: linear-gradient(90deg, rgba(181,92,230,1) 0%, rgba(78,135,240,1) 100%);
+}
+.fa-envelope{
+    color: transparent;
+  
+color: rgb(181,92,230);
+background-color: linear-gradient(90.63deg, #B55CE6 6.56%, #4E87F0 113.04%);
+/* background-color: linear-gradient(90deg, rgba(181,92,230,1) 0%, rgba(78,135,240,1) 100%); */
+    
+}
+/* .top_grad{
+    /* position: absolute;
+width: 571px;
+height: 571px;
+left: 464px;
+top: -394px; */
+
+/* background: linear-gradient(90.63deg, #B55CE6 6.56%, #4E87F0 113.04%);
+opacity: 0.3;
+filter: blur(284px);
+border-radius: 10px;
+} */ 
+
